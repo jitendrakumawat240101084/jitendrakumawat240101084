@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Jitendra Kumawat
 
-<!--
-**jitendrakumawat240101084/jitendrakumawat240101084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | Python | Data Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, and Data Science. Currently building my skills through projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Currently learning **Machine Learning**
+- 🐍 Strong interest in Python and AI/ML
+- 📊 Experienced with Data Analysis and Data Visualization
+- 💻 Practicing Data Structures and Algorithms
+- 🎯 Goal: Secure an AI/ML Internship and build real-world AI applications
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C
+- C++
+- SQL
+
+### Data Science & AI
+- NumPy
+- Pandas
+- Data Collection
+- Data Visualization
+- Mathematics for AI/ML
+- Machine Learning (Currently Learning)
+
+### Tools & Technologies
+- MySQL
+- Git & GitHub
+- Power BI
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Building AI/ML Projects
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Jitendra Kumawat](https://www.linkedin.com/in/jitendra-kumawat-734601324/)
+- LeetCode: [kumawat850](https://leetcode.com/u/kumawat850/)
+- Kaggle: [jitkumawat](https://www.kaggle.com/jitkumawat)
+
+---
+
+### 💡 Consistency and continuous learning are the keys to growth.
+
+⭐ Feel free to explore my repositories!
