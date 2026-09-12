@@ -35,7 +35,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Data Science
 ### Tools & Technologies
 - MySQL
 - Git & GitHub
-- Power BI
+- Streamlit
 
 ---
 
